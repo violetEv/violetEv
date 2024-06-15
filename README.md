@@ -8,9 +8,8 @@ I am an Informatics student with a strong interest in web and mobile application
 
 ## Technologies & Tools 🛠️
 
-### Languages
+[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange) ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-green?logo=kotlin&logoColor=white)
 
 ### Frameworks & Libraries
 
