@@ -6,8 +6,11 @@
 
 I am an Informatics student with a strong interest in web and mobile application development. I am passionate about learning new technologies and improving my skills in creating innovative and efficient solutions. 🚀
 
-[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=violetEv&layout=compact&langs_count=6&theme=radical)](https://github.com/violetEv)
+## Let's connect 📫
 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heyninda22) 🔗
+
+[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=violetEv&layout=compact&langs_count=6&theme=radical)](https://github.com/violetEv) ![Ninda's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetEv&show_icons=true&theme=radical)
 
 ### Frameworks & Libraries
 
@@ -17,12 +20,7 @@ I am an Informatics student with a strong interest in web and mobile application
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-%23007ACC?logo=visual-studio-code) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-%233DDC84?logo=android-studio&logoColor=white) 
 
-
-## Let's connect 📫
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heyninda22) 🔗
-
-![Ninda's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetEv&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=violetEv)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
