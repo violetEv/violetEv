@@ -8,7 +8,7 @@ I am an Informatics student with a strong interest in web and mobile application
 
 ## Technologies & Tools 🛠️
 
-[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername)
+[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=violetEv&layout=compact)](https://github.com/violetEv)
 
 
 ### Frameworks & Libraries
