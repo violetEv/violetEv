@@ -20,8 +20,6 @@ I am an Informatics student with a strong interest in web and mobile application
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-%23007ACC?logo=visual-studio-code) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-%233DDC84?logo=android-studio&logoColor=white) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=violetEv)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ---
 
