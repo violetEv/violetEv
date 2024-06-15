@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 # Hello, I'm [Ninda]! 👋
 
@@ -20,9 +18,7 @@ I am an Informatics student with a strong interest in web and mobile application
 ### Frameworks & Libraries
 - Astro
 - Node.js
-- 
 - Bootstrap
-  
 
 ### Tools
 - Git & GitHub
@@ -32,10 +28,8 @@ I am an Informatics student with a strong interest in web and mobile application
 ## Projects
 
 ### [Foody](https://github.com/violetEv/FoodAppMe)
-Description of your project 1. What technologies you used, what problem it solves, and any other relevant details.
 
 ### [GoStudy](https://github.com/yourusername/GoStudy)
-Description of your project 2. What technologies you used, what problem it solves, and any other relevant details.
 
 ## Education
 
