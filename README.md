@@ -6,9 +6,7 @@
 
 I am an Informatics student with a strong interest in web and mobile application development. I am passionate about learning new technologies and improving my skills in creating innovative and efficient solutions. 🚀
 
-## Technologies & Tools 🛠️
-
-[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=violetEv&layout=compact)](https://github.com/violetEv)
+[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=violetEv&layout=compact&langs_count=6)](https://github.com/violetEv)
 
 
 ### Frameworks & Libraries
@@ -17,7 +15,7 @@ I am an Informatics student with a strong interest in web and mobile application
 
 ### Tools
 
-![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-%23007ACC?logo=visual-studio-code) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-%233DDC84?logo=android-studio&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-%23007ACC?logo=visual-studio-code) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-%233DDC84?logo=android-studio&logoColor=white) 
 
 
 ## Let's connect 📫
