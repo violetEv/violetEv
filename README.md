@@ -6,15 +6,12 @@
 
 I am an Informatics student with a strong interest in web and mobile application development. I am passionate about learning new technologies and improving my skills in creating innovative and efficient solutions. 🚀
 
-## Projects 📂
+## Let's connect 📫
 
-### [Foody](https://github.com/violetEv/FoodAppMe) 🍔
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heyninda22) 🔗
 
-### [GoStudy](https://github.com/yourusername/GoStudy) 📚
+![Ninda's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetEv&show_icons=true&theme=radical)
 
-## Get in Touch 📫
-
-- [LinkedIn](https://www.linkedin.com/in/heyninda22) 🔗
 
 ---
 
