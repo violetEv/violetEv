@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am an Informatics student with a strong interest in web and mobile application development. I am passionate about learning new technologies and improving my skills in creating innovative and efficient solutions. 🚀
+I am an Informatics graduate with a strong interest in web and mobile application development. I am passionate about learning new technologies and improving my skills in creating innovative and efficient solutions. 🚀
 
 ## Let's connect 📫
 
